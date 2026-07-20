@@ -56,3 +56,4 @@ convergence orders (O(dt) vs O(dt²))
 
 ## Credits
 Built by me as a Differential Equations class project.
+Project Slides: https://docs.google.com/presentation/d/175RaI8PNUXiKCFn-MohthLpwDqM3s8nU3Aln2oR_1A8/edit?usp=sharing

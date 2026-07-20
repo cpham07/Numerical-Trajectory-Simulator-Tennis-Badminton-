@@ -22,7 +22,7 @@ speed, using tennis and badminton trajectories as test cases.
 ## Methodology
 - RK4, Euler, and Improved Euler (Heun's method) as approximation methods
 - RK4 treated as baseline for error comparison
-- Note: UI features (interactive sliders, sport-mode toggle) were specified by me; the 
+- Note: UI features (interactive sliders, sport-mode toggle) and methodologies were specified by me; the 
 Hawk-Eye tolerance framing and much of the code implementation were 
 AI-assisted.
 
